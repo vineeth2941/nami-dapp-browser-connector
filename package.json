@@ -1,0 +1,11 @@
+{
+  "name": "nami-dapp-browser-connector",
+  "version": "1.0.0",
+  "description": "Client code to inject Nami dApp connector API to run under Nami dApp browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vineeth",
+  "license": "ISC"
+}
